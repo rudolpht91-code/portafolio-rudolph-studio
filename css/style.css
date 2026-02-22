@@ -27,7 +27,7 @@ body {
     width: 90%;
     max-width: 1100px;
     margin: 0 auto;
-    padding: 20px 0;
+    padding: 0px 0;
 }
 
 h1, h2, h3 {
@@ -52,6 +52,11 @@ header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    width: 100%;         /* Hace que abarque toda la pantalla */
+    max-width: 85%;     /* Quita el límite de los 1100px */
+    padding-left: 0;     /* Pega el logo exactamente al borde izquierdo */
+    padding-right: 10%;   /* Deja un poco de espacio a la derecha para que el menú no choque con el borde */
 }
 
 .logo {
@@ -421,3 +426,27 @@ footer p {
     max-height: 90%;
     border: 2px solid var(--blanco);
 }
+
+/* --- Estilo para el Logo de la esquina superior derecha --- */
+.logo-img {
+    height: 100px;
+    width: auto;
+    transition: transform 0.3s ease;
+}
+
+.logo-img:hover {
+    transform: scale(1.1);
+}
+
+.header-logo-link {
+    display: flex;
+    align-items: center;
+    margin-right: 0px;
+}
+
+@media (max-width: 768px) {
+    .logo-img {
+        height: 40px;
+    }
+}
+
