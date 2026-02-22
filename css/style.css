@@ -41,7 +41,8 @@ h2 { font-size: 30px; }
 /* --- Cabecera y Navegación --- */
 header {
     background-color: #1a1a1a;
-    padding: 15px 0;
+    padding: 0;
+    padding-bottom: 15px; /* Padding inferior de 15px añadido */
     border-bottom: 2px solid var(--ambar-electrico);
     position: sticky;
     top: 0;
@@ -52,18 +53,17 @@ header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    width: 100%;         /* Hace que abarque toda la pantalla */
-    max-width: 85%;     /* Quita el límite de los 1100px */
-    padding-left: 0;     /* Pega el logo exactamente al borde izquierdo */
-    padding-right: 10%;   /* Deja un poco de espacio a la derecha para que el menú no choque con el borde */
+    width: 95%;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
 .logo {
     font-family: var(--font-titulos);
-    font-size: 24px;
+    font-size: 26px; /* Un poco más grande para acompañar al logo */
     color: var(--blanco);
     text-decoration: none;
+    margin-left: 15px;
 }
 
 nav ul {
@@ -429,7 +429,7 @@ footer p {
 
 /* --- Estilo para el Logo de la esquina superior derecha --- */
 .logo-img {
-    height: 100px;
+    height: 120px;
     width: auto;
     transition: transform 0.3s ease;
 }
