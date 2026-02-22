@@ -1,0 +1,56 @@
+¡Claro! Aquí tienes la lista completa y consolidada de todas las imágenes que necesitas colocar en tu carpeta sitioWeb/images/ con sus nombres exactos:
+
+  Imágenes para la Página Principal y Cabeceras:
+
+
+   * xenomorfo_principal.jpg (Imagen de fondo para la sección principal de index.html)
+   * que_hacemos_bg.jpg (Imagen de fondo para la cabecera de que-hacemos.html)
+   * tienda_bg.jpg (Imagen de fondo para la cabecera de tienda.html)
+   * contacto_bg.jpg (Imagen de fondo para la cabecera de contacto.html)
+   * retrato_autor.jpg (Tu retrato para la sección "Sobre el Autor" en sobre.html)
+
+  Imágenes de la Galería (por Proyecto):
+
+
+   * Proyecto Xenomorfo:
+       * proyecto_xenomorfo.jpg (Imagen principal para la cuadrícula de la galería)
+       * proyecto_xenomorfo_detalle1.jpg
+       * proyecto_xenomorfo_detalle2.jpg
+       * proyecto_xenomorfo_detalle3.jpg
+
+
+   * Proyecto Patronus:
+       * proyecto_patronus.jpg (Imagen principal para la cuadrícula de la galería)
+       * proyecto_patronus_detalle1.jpg
+       * proyecto_patronus_detalle2.jpg
+       * proyecto_patronus_detalle3.jpg
+
+
+   * Proyecto Calavera:
+       * proyecto_calavera.jpg (Imagen principal para la cuadrícula de la galería)
+       * proyecto_calavera_detalle1.jpg
+       * proyecto_calavera_detalle2.jpg
+       * proyecto_calavera_detalle3.jpg
+
+
+   * Proyecto Darth Vader:
+       * vader_principal.jpg (Imagen principal para la cuadrícula de la galería)
+       * vader_detalle1.jpg
+       * vader_detalle2.jpg
+       * vader_detalle3.jpg
+
+
+    * Lampara Ultraman (NUEVO):
+       * ultraman_principal.jpg
+       * ultraman_detalle1.jpg
+       * ultraman_detalle2.jpg
+       * ultraman_detalle3.jpg
+
+
+   * Proyecto Bowser:
+       * bowser_principal.jpg (Imagen principal para la cuadrícula de la galería)
+       * bowser_detalle1.jpg
+       * bowser_detalle2.jpg
+       * bowser_detalle3.jpg
+
+
